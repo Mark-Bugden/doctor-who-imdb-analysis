@@ -14,17 +14,6 @@ Curious to explore the analysis? Simply open the doctor-who-imdb-analysis.ipynb 
 Comfortable with Python and want to run it yourself? Just follow the setup instructions below.
 
 
-## Project Structure
-
-```
-.
-├── data/                               # Contains raw and processed IMDb data (not tracked in version control)
-├── doctor-who-imdb-analysis.ipynb      # The main analysis notebook
-├── utils.py                            # Helper functions for loading and processing data
-├── README.md
-└── requirements.txt                    # Python dependencies
-```
-
 ## Getting Started
 
 1. **Clone the repo**
@@ -54,3 +43,15 @@ jupyter notebook doctor-who-imdb-analysis.ipynb
 ```
 
 > The notebook will guide you through the full analysis step-by-step.
+
+
+## Project Structure
+
+```
+.
+├── data/                               # Contains raw and processed IMDb data (not tracked in version control)
+├── doctor-who-imdb-analysis.ipynb      # The main analysis notebook
+├── utils.py                            # Helper functions for loading and processing data
+├── README.md
+└── requirements.txt                    # Python dependencies
+```
