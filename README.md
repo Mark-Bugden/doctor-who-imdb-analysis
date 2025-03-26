@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/banner.png" alt="Doctor Who IMDb Analysis Banner" width="100%">
+  <img src="Assets/banner.png" alt="Doctor Who IMDb Analysis Banner" width="100%", height="80%">
 </p>
 
 # Doctor Who IMDb Analysis
