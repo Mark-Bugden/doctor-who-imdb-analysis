@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/banner.png" alt="Doctor Who IMDb Analysis Banner" width="100%">
+</p>
+
 # Doctor Who IMDb Analysis
 
 Ever wondered which *Doctor Who* seasons were most loved by fans?  
