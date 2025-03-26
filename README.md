@@ -11,7 +11,18 @@ We use a data-driven analysis to answer the question: **Who is the best Doctor?*
 
 If you're not into the technical details, check out the non-technical [blog post](https://your-blog-url.com/doctor-who-imdb-analysis).
 Curious to explore the analysis? Simply open the doctor-who-imdb-analysis.ipynb notebook to read through it.
-Comfortable with Python and want to run it yourself? Just follow the setup instructions below.
+Comfortable with Python and want to run it yourself? Just follow the setup instructions in the "Getting Started" section below.
+
+## Project Structure
+
+```
+.
+├── data/                               # Contains raw and processed IMDb data (not tracked in version control)
+├── doctor-who-imdb-analysis.ipynb      # The main analysis notebook
+├── utils.py                            # Helper functions for loading and processing data
+├── README.md
+└── requirements.txt                    # Python dependencies
+```
 
 
 ## Getting Started
@@ -45,13 +56,3 @@ jupyter notebook doctor-who-imdb-analysis.ipynb
 > The notebook will guide you through the full analysis step-by-step.
 
 
-## Project Structure
-
-```
-.
-├── data/                               # Contains raw and processed IMDb data (not tracked in version control)
-├── doctor-who-imdb-analysis.ipynb      # The main analysis notebook
-├── utils.py                            # Helper functions for loading and processing data
-├── README.md
-└── requirements.txt                    # Python dependencies
-```
