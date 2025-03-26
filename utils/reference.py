@@ -44,3 +44,19 @@ modern_season_to_doctor_mapping = {
     14: "Fifteenth Doctor",
     15: "Fifteenth Doctor",
 }
+
+doctor_to_actor_mapping = {
+    "First Doctor": "William Hartnell",
+    "Second Doctor": "Patrick Troughton", 
+    "Third Doctor": "Jon Pertwee",
+    "Fourth Doctor": "Tom Baker",
+    "Fifth Doctor": "Peter Davison",
+    "Sixth Doctor": "Colin Baker",
+    "Seventh Doctor": "Sylvester McCoy",
+    "Ninth Doctor": "Christopher Eccleston",
+    "Tenth Doctor": "David Tennant", 
+    "Eleventh Doctor": "Matt Smith",
+    "Twelfth Doctor": "Peter Capaldi",
+    "Thirteenth Doctor": "Jodie Whittaker",
+    "Fifteenth Doctor": "Ncuti Gatwa",   
+}
