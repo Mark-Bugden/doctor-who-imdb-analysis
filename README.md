@@ -1,10 +1,10 @@
-# 🧠 Doctor Who IMDb Analysis
+# Doctor Who IMDb Analysis
 
 Ever wondered which *Doctor Who* seasons were most loved by fans?  
 This data science project dives deep into IMDb data to uncover the highs, lows, and hidden gems of the longest-running sci-fi series in TV history. 
 We use a data-driven analysis to answer the question: **Who is the best Doctor?**
 
-**✨ Highlights:**
+**Highlights:**
 - Rating trends across Doctors and showrunners  
 - Statistical analysis of season quality  
 - Visual storytelling with clear, intuitive plots  
@@ -14,7 +14,7 @@ Curious to explore the analysis? Simply open the doctor-who-imdb-analysis.ipynb 
 Comfortable with Python and want to run it yourself? Just follow the setup instructions below.
 
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -25,7 +25,7 @@ Comfortable with Python and want to run it yourself? Just follow the setup instr
 └── requirements.txt                    # Python dependencies
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repo**
 
