@@ -82,10 +82,6 @@ gatwa_season_to_doctor_mapping = {
     2: "Fifteenth Doctor",
 }
 
-gatwa_season_to_modern_season_mapping = {
-    1: 14,
-    2: 15,
-}
 
 doctor_to_actor_mapping = {
     "First Doctor": "William Hartnell",
@@ -102,3 +98,19 @@ doctor_to_actor_mapping = {
     "Thirteenth Doctor": "Jodie Whittaker",
     "Fifteenth Doctor": "Ncuti Gatwa",
 }
+
+doctor_order = [
+    "First Doctor",
+    "Second Doctor",
+    "Third Doctor",
+    "Fourth Doctor",
+    "Fifth Doctor",
+    "Sixth Doctor",
+    "Seventh Doctor",
+    "Ninth Doctor",
+    "Tenth Doctor",
+    "Eleventh Doctor",
+    "Twelfth Doctor",
+    "Thirteenth Doctor",
+    "Fifteenth Doctor",
+]
