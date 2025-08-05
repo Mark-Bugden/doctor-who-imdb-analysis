@@ -13,7 +13,7 @@ We use a data-driven analysis to answer the question: **Who is the best Doctor?*
 - Statistical analysis of season quality  
 - Visual storytelling with clear, intuitive plots  
 
-If you're not into the technical details, check out the non-technical [blog post](https://your-blog-url.com/doctor-who-imdb-analysis).
+If you're not into the technical details, check out the non-technical [blog post](https://mark-bugden.github.io./portfolio/doctorwho.html).
 Curious to explore the analysis? Simply open the `doctor-who-imdb-analysis.ipynb` notebook to read through it.
 Comfortable with Python and want to run it yourself? Just follow the setup instructions in the "Getting Started" section below.
 
